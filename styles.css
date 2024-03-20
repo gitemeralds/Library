@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(60deg, rgb(22, 22, 22), rgb(23, 0, 43));
+}
+
+.card {
+    color: white;
+}
